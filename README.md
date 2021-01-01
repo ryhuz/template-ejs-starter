@@ -22,4 +22,4 @@ Remember to install the following packages
 - method-override
 - express-ejs-layouts
 
-npm i express mongoose dotenv method-override express-ejs-layouts
+`npm i express mongoose dotenv method-override express-ejs-layouts`
